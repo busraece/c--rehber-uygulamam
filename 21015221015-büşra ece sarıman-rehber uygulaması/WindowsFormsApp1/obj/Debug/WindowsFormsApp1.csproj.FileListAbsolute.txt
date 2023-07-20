@@ -1,0 +1,57 @@
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mertk\Desktop\WindowsFormsApp1-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BÜŞRA\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BÜŞRA\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BÜŞRA\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BÜŞRA\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rehber.resources
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA\OneDrive\Masaüstü\SON ÖDEV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
